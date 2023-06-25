@@ -2,11 +2,15 @@
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
   
 
-<h1 align="center">Hi 👋, I'm Kamrul Hasan</h1>
-<h3 align="center">.Net Software Developer</h3>
+  
+## 🙋🏿‍♂️ About Me :
 
-<div aling="left">
-## 🙋🏿‍♂️ About Me ::
+<h3 align="center">Hi 👋, I'm Kamrul Hasan</h3>
+<h align="center">.Net Software Developer</h>
+
+
+<div align="left">
+
 I am a dedicated and enthusiastic software developer with a deep passion for coding and problem-solving. I believe in the power of technology to drive positive change and create innovative solutions to real-world problems. My primary focus is on web development and I have expertise in front-end and back-end technologies.
 
 <div align="left">
@@ -21,7 +25,7 @@ I am a dedicated and enthusiastic software developer with a deep passion for cod
 
 - 🌱 I’m currently learning **Angular, React**
 
-- 👯 I’m looking to collaborate on **Inventory Management System**
+
 
 
 
