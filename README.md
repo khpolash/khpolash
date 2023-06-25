@@ -6,7 +6,14 @@
 <h3 align="center">Hi 👋, I'm Kamrul Hasan</h3>
 
 <div align="left">
+  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/khpolashbd) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khpolash) 
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/khpolash) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/khpolashbd) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@khpolash) 
 
+  
 I am a dedicated and enthusiastic software developer with a deep passion for coding and problem-solving. I believe in the power of technology to drive positive change and create innovative solutions to real-world problems. My primary focus is on web development and I have expertise in front-end and back-end technologies.
 
 <div align="left">
