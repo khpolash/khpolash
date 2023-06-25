@@ -5,8 +5,6 @@
   
 # 🙋🏿‍♂️ About Me :
 <h2 align="center">Hi 👋, I'm Kamrul Hasan</h2>
-<h3 align="center">Software Developer</h3>
-
 
 <div align="left">
 
