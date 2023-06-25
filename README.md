@@ -5,6 +5,9 @@
 <h1 align="center">Hi 👋, I'm Kamrul Hasan</h1>
 <h3 align="center">.Net Software Developer</h3>
 
+<div aling="center">
+I am a dedicated and enthusiastic software developer with a deep passion for coding and problem-solving. I believe in the power of technology to drive positive change and create innovative solutions to real-world problems. My primary focus is on web development and I have expertise in front-end and back-end technologies.
+
 <div align="left">
 
 - 🔭 I’m currently working on [Learning Management System](https://tsoftlms.com/)
