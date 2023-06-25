@@ -3,7 +3,7 @@
   
 
 ## 🙋🏿‍♂️ About Me :
-<h3 align="center">Hi 👋, I'm Kamrul Hasan</h3>
+<h2 align="center">Hi 👋, I'm Kamrul Hasan</h3>
 
 <div align="left">
 
