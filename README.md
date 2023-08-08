@@ -6,6 +6,10 @@
 <h3 align="center">Hi 👋, I'm Kamrul Hasan</h3>
 
 <div align="left">
+  
+<p>
+I am a dedicated and enthusiastic software developer with a deep passion for coding and problem-solving. I believe in the power of technology to drive positive change and create innovative solutions to real-world problems. My primary focus is on web development and I have expertise in front-end and back-end technologies.
+</p>
 
 ### 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/khpolashbd) 
@@ -14,8 +18,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/khpolashbd) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@khpolash) 
 
-  
-I am a dedicated and enthusiastic software developer with a deep passion for coding and problem-solving. I believe in the power of technology to drive positive change and create innovative solutions to real-world problems. My primary focus is on web development and I have expertise in front-end and back-end technologies.
+
 
 <div align="left">
 
