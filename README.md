@@ -22,13 +22,12 @@ I am a dedicated and enthusiastic software developer with a deep passion for cod
 
 
 <div align="left">
-
+  
+- 🔭 I’m currently working on [Empire Air & Trips](https://empireairtrips.com/)
+- 🔭 I’m currently working on [Renaissance Holidays](https://www.renaissanceholidays.com/)
 - 🔭 I’m currently working on [Learning Management System](https://tsoftlms.com/)
-
 - 🔭 I’m currently working on [Job Portal Management System](https://techjobbd.com/)
-
 - 🔭 I’m currently working on **Inventory Management System**
-
 - 🔭 I’m currently working on **Human Resources Management System**
 
 - 🌱 I’m currently learning **Angular, React**
