@@ -23,15 +23,49 @@ I am a dedicated and enthusiastic software developer with a deep passion for cod
 
 <div align="left">
   
+- 🔭 I’m currently working on 
 - 🔭 I’m currently working on [Empire Air & Trips](https://empireairtrips.com/)
 - 🔭 I’m currently working on [Renaissance Holidays](https://www.renaissanceholidays.com/)
 - 🔭 I’m currently working on [Learning Management System](https://tsoftlms.com/)
 - 🔭 I’m currently working on [Job Portal Management System](https://techjobbd.com/)
 - 🔭 I’m currently working on **Inventory Management System**
 - 🔭 I’m currently working on **Human Resources Management System**
-
 - 🌱 I’m currently learning **Angular, React**
 
+
+# Projects
+
+## Integrated Database Information Management (BGB)
+**Role:** Lead Developer  
+**Responsibilities:**
+- Contribute to the development and maintenance of a comprehensive software solution comprising six modules: Admin, Budget and Accounting, Logistics Central Store, Communication, IRMS, EME Vehicle and Project Management.
+- Implement user-requested updates across all existing modules, ensuring software responsiveness to stakeholder needs.
+- Diagnose and resolve bugs to enhance system functionality and user experience.
+- Generate and upgrade reports using RDLC, improving reporting capabilities and data presentation.
+- Spearhead the transition from EDMX to a model-based approach, significantly enhancing system architecture and performance.
+- Committed to project success with precise results in complex tasks.
+
+---
+
+## Renaissance Holidays
+**Website:** [renaissanceholidays.com](https://renaissanceholidays.com)  
+**Responsibilities:**
+- Developed using ASP.NET Core MVC with SSLCommerz payment gateway integration, transforming travel booking.
+- Seamless user experience with secure account creation, detailed tour information, and transparent pricing.
+- Intuitive interface for easy booking, personalized preferences, and secure transactions.
+- Robust admin panel for tour management, booking oversight, and system monitoring.
+- Automated email notifications for booking confirmations and payment receipts.
+
+---
+
+## Learning Management System (LMS) of Her Power Project (Funded by ICT Ministry)
+**Website:** [tsoftlms.com](https://tsoftlms.com)  
+**Responsibilities:**
+- User-friendly student registration process for account creation.
+- Comprehensive attendance tracking with accessible history for students.
+- Assignment management system for accessing, submitting, and tracking assignments with feedback from trainers.
+- Centralized access to class links and schedules for effective planning.
+- Detailed trainer profiles to facilitate communication.
 
 
 ## 💻 Language and Tools:
@@ -85,8 +119,6 @@ I am a dedicated and enthusiastic software developer with a deep passion for cod
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-
 
 
 ## 📊 GitHub Stats:
