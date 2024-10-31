@@ -58,7 +58,7 @@ I am a dedicated and enthusiastic software developer with a deep passion for cod
 
 ---
 
-## Learning Management System (LMS) of Her Power Project (Funded by ICT Ministry)
+## Learning Management System (LMS) of Her Power Project (ICT Ministry)
 **Website:** [tsoftlms.com](https://tsoftlms.com)  
 **Responsibilities:**
 - User-friendly student registration process for account creation.
